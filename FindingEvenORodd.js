@@ -4,17 +4,14 @@
 // ? Input: ‘Phero’
 //  ? Output: odd
 
-
-
+// findingEvenOrOdd String length
 function evenOdd(str) {
   let length = str.length;
-
   if (length % 2 === 0) {
     return 'even';
   } else {
     return 'odd';
   }
 }
-
 let result = evenOdd("Phero");
 console.log(result);
