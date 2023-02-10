@@ -13,5 +13,5 @@ function evenOdd(str) {
     return 'odd';
   }
 }
-let result = evenOdd("Phero");
+let result = evenOdd("chatgpt");
 console.log(result);
