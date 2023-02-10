@@ -15,5 +15,5 @@ function isLGSeven(number) {
         return number * 2;
     }
 }
-let inputNum = isLGSeven(6)
+const inputNum = isLGSeven(-15)
 console.log(inputNum)
