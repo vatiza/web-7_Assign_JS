@@ -15,7 +15,6 @@ function mindGame(number) {
     let result=divis2 - 5;
     return result;
     
-
 }
 const positiveNumber= mindGame(33);
 console.log(positiveNumber)
